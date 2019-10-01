@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Greeter
+## Author Nicholas Parry
+## Notes: Say hi
+
+Greeter.lua
